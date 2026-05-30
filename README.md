@@ -25,7 +25,7 @@ A web app to search GitHub users and view their profile and repositories.
 
 ## Live Demo
 
-[Click here](তোমার Netlify/Vercel link)
+[Click here](https://github-user-finder-shium.netlify.app/)
 
 ## Screenshot
 
@@ -33,5 +33,5 @@ A web app to search GitHub users and view their profile and repositories.
 
 ## Author
 
-**MD Shium Joarder**  
+**Md Shium Joarder**  
 [GitHub](https://github.com/shiumjoarder)

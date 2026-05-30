@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<form id="search-bar">
+    <label for="github-username" class="github">Github Username:</label><br>
+    <input type="text" id="username" placeholder="Enter your username"><br><br>
+    <button>Search</button>
+</form>
+
+<p id="error-msg"></p>
+
+<div id="profile">
+    <img id="avatar" src="" alt="">
+    <h2 id="name"></h2>
+    <p id="bio"></p>
+    <p id="followers"></p>
+    <p id="following"></p>
+    <p id="repos-count"></p>
+    <a id="github-link" href=""></a>
+
+</div>
+
+<div id="repos">
+    <h3>Repositories:</h3>
+    <ul id="repo-list"></ul>
+</div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
